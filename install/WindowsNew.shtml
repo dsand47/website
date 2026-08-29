@@ -483,6 +483,15 @@ the folder "JMRI_backup" to "JMRI".
         "images/win-trust-5.png" alt="Windows download trust 5"></a>
       </div>
 
+      <p>At <strong>Win11-25H2</strong>, the dialog has changed.  The <strong>Show more</strong> has
+      been removed and the <strong>Keep anyway</strong> option is now a drop-down action on the
+      <strong>Delete</strong> button.  Make sure that the down arrow is clicked.</p>
+
+      <div style="margin-left: 2em">
+        <a href="images/win-trust-4-25H2.png"><img class="image-border"  src=
+        "images/win-trust-4-25H2.png" alt="Windows download trust 4 at 25H2"></a>
+      </div>
+
       <p>The JMRI installer is finally moved to the Downloads folder.  Click on <strong>Open file</strong>
       to run the installer immediately or run it later from Downloads.</p>
 
